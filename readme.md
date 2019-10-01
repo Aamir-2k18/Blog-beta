@@ -23,9 +23,11 @@
 #Yet to do 
 17.Ajax 														=> 1 Day
 18.Search Form Date range Search 								=> 2 Days
-````
+``````````````````````````````````````````````````````````````````````````
+##############################################
 #Backend ~ Admin Panel (17 Days Estimated)
-`````````
+##############################################
+``````````````````````````````````````````````````````````````````````````
 1. Auth System ~ Login+Register System 							=> 3 Days (Estimated)
 2. A Nice Admin Panel template 
 3. Admin section map i.e which section comes where 				=>  1 Day
@@ -44,12 +46,21 @@
 16.Newsletters Panel  											=>  1 Day
 17.Any Other Misc Fixes & Additions  							=>  2 Days
 
-=>18.Nav Items Management Panel ~(Optional) & QA Testing etc.  	=>  1 Day
+18.Nav Items Management Panel ~(Optional) & QA Testing etc.  	=>  1 Day
 
 
-`````````
-##################
-``````````````
+``````````````````````````````````````````````````````
+######################################################
+``````````````````````````````````````````````````````
+
+
+
+
+
+
+
+
+
 <p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
 
 <p align="center">
