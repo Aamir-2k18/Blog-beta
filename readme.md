@@ -51,8 +51,7 @@ global Objects for admin sections					=>  1 Day
  & QA Testing etc.  								=>  1 Day
 
 
-``````````````````````````````````````````````````````
-
+`````
 <p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
 
 <p align="center">
