@@ -21,44 +21,40 @@
 15.Categories Archives & NavLinks
 16.Tags Archives & NavLinks
 #Yet to do 
-17.Ajax 														=> 1 Day
-18.Search Form Date range Search 								=> 2 Days
+17.Ajax 										=> 1 Day
+18.Search Form Date range Search 				=> 2 Days
 ``````````````````````````````````````````````````````````````````````````
 ##############################################
 #Backend ~ Admin Panel (17 Days Estimated)
 ##############################################
 ``````````````````````````````````````````````````````````````````````````
-1. Auth System ~ Login+Register System 							=> 3 Days (Estimated)
+1. Auth System ~ Login+Register System 				=> 3 Days (Estimated)
 2. A Nice Admin Panel template 
-3. Admin section map i.e which section comes where 				=>  1 Day
-4. Set up templates Converting html to blade => 
-5. Set up routs for admin dashboard 							=>  1 Day
-6. Set up pages admin `` 										=>  1 Day
-7. Make Post Obj ``  											=>  1 Day
-8. Page Obj `` 													=>  1 Day
-9. Categories & NavLinks Panel 									=>  1 Day
-10.Tags & NavLinks Panel 										=>  1 Day
+3. Admin section map i.e which section comes where 	=>  1 Day
+4. Set up templates Converting html to blade 
+5. Set up routs for admin dashboard 		        =>  1 Day
+6. Set up pages admin `` 							=>  1 Day
+7. Make Post Obj ``  								=>  1 Day
+8. Page Obj `` 										=>  1 Day
+9. Categories & NavLinks Panel 						=>  1 Day
+10.Tags & NavLinks Panel 							=>  1 Day
 11.Comments Panel 
-12.Contact Form messages Panel  								=>  1 Day
+12.Contact Form messages Panel  					=>  1 Day
 13.Update Relationships & SoftDeletes
-14.Update Migrations  											=>  1 Day
-15.AdminController for using global Objects for admin sections  =>  1 Day
-16.Newsletters Panel  											=>  1 Day
-17.Any Other Misc Fixes & Additions  							=>  2 Days
+14.Update Migrations  								=>  1 Day
+15.AdminController for using 
+global Objects for admin sections					=>  1 Day
+16.Newsletters Panel  								=>  1 Day
+17.Any Other Misc Fixes & Additions  				=>  2 Days
 
-18.Nav Items Management Panel ~(Optional) & QA Testing etc.  	=>  1 Day
+18.Nav Items Management Panel ~(Optional)
+ & QA Testing etc.  								=>  1 Day
 
 
 ``````````````````````````````````````````````````````
 ######################################################
 ``````````````````````````````````````````````````````
-
-
-
-
-
-
-
+######################################################
 
 
 <p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
